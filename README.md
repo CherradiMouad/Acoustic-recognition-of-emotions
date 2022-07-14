@@ -28,5 +28,14 @@ After opening jupyter notebook,
 * in the section **Reading and exploring Data** you should add the path where you saved the **csv** file 
 * run all cells and observe the performance of different models
 ## Contribute
+### Improving the features
+in **Data_Processing** file section of **Extracting Features**,
+there is many *features* like {**MFCC**, **Centroid**, **ZCR**, ...}
+when we apply some of these *features*, as an output value we have an array, then we apply **functions** like *sum* and *mean* etc, to get one value as a result instead of an array. 
 
+  * change this functions
+  * using more than one function on the same feature like getting 3 value sum, mean, max from MFCC
+  * add new features
+can help to give us more features, and those help models to train better and perform a good accuracy
+### Improving with Neural Network
 
