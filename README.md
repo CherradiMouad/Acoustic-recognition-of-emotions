@@ -3,4 +3,6 @@
 ## Motivation
 Emotion recognition technologies have been widely used in a variety of different applications in the past few years and seem to be only growing more popular in today’s industry. from psychological studies to advanced analysis of customer needs, it seems like the potential of these technologies is inexhaustible. Yet, these methods are still perceived as incredibly complex and inaccessible for the average data scientist who do not hold the privilege of being an expert in analysis of audio frames and sound waves.
 ## Screenshots
-
+![1](https://user-images.githubusercontent.com/100093143/178966587-7a84c8c2-d980-407e-b58a-024360624add.PNG)
+![2](https://user-images.githubusercontent.com/100093143/178966602-63f0c21e-4c09-413a-885a-cf518a7e42eb.PNG)
+![3](https://user-images.githubusercontent.com/100093143/178966612-61bd01da-ea53-466f-8cdb-8522248cb5b0.PNG)
