@@ -5,4 +5,13 @@ Emotion recognition technologies have been widely used in a variety of different
 ## Screenshots
 ![1](https://user-images.githubusercontent.com/100093143/178966587-7a84c8c2-d980-407e-b58a-024360624add.PNG)
 ![2](https://user-images.githubusercontent.com/100093143/178966602-63f0c21e-4c09-413a-885a-cf518a7e42eb.PNG)
-![3](https://user-images.githubusercontent.com/100093143/178966612-61bd01da-ea53-466f-8cdb-8522248cb5b0.PNG)
+![3](https://user-images.githubusercontent.com/100093143/178966612-61bd01da-ea53-466f-8cdb-8522248cb5b0.PNG )
+## Tech/Framework used
+jupyter notebook
+## Installation
+inside jupyter notebook run the following commands:
+pip install librosa
+pip install numpy
+pip install pandas
+pip install seaborn
+pip install -U scikit-learn
