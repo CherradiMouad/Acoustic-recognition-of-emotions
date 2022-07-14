@@ -21,6 +21,8 @@ pip install -U scikit-learn
 After opening jupyter notebook, 
 * open first **Data_Processing.ipynb**
 * install *libraries* in section above **Installation** 
-* c<w 
+* in **Load Data and convert it to array** you should add the path where you have file **data** loaded
+* after executing all cells 
+* tha last cell **Load DATA into csv file** add your own path where you want to save the **csv** file because you well need it after 
 
 
