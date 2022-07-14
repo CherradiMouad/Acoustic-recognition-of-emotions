@@ -23,6 +23,10 @@ After opening jupyter notebook,
 * install *libraries* in section above **Installation** 
 * in **Load Data and convert it to array** you should add the path where you have file **data** loaded
 * after executing all cells 
-* tha last cell **Load DATA into csv file** add your own path where you want to save the **csv** file because you well need it after 
+* tha last cell **Load DATA into csv file** add your own path where you want to save the **csv** file because you well need it after
+* now open file **Classification.ipynb**
+* in the section **Reading and exploring Data** you should add the path where you saved the **csv** file 
+* run all cells and observe the performance of different models
+## Contribute
 
 
