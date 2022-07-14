@@ -35,7 +35,7 @@ when we apply some of these *features*, as an output value we have an array, the
 
   * change this functions
   * using more than one function on the same feature like getting 3 value sum, mean, max from MFCC
-  * add new features
-can help to give us more features, and those help models to train better and perform a good accuracy
-### Improving with Neural Network
+  * add new features\
+all these things can help to give us more features, and those help models to train better and perform a good accuracy
+### Improving accuracy by using Neural network instead of classification method
 
