@@ -9,8 +9,8 @@ Emotion recognition technologies have been widely used in a variety of different
 ## Tech/Framework used
 jupyter notebook
 ## Installation
-inside jupyter notebook run the following commands:
-pip install librosa
+inside jupyter notebook run the following commands:\\
+pip install librosa\\
 pip install numpy
 pip install pandas
 pip install seaborn
