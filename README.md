@@ -17,4 +17,10 @@ pip install seaborn\
 pip install -U scikit-learn
 ## Tests
 ![Accuracy](https://user-images.githubusercontent.com/100093143/178971592-7f991b9e-7d7e-4841-be4f-ed3c15dc615f.PNG)
+## How to Use?
+After opening jupyter notebook, 
+open first **Data_Processing.ipynb** and install *libraries* in section above **Installation** and run all cells 
+Order Lists:
+k,dv
+fk
 
