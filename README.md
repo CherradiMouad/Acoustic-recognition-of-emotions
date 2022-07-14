@@ -14,5 +14,7 @@ pip install librosa\
 pip install numpy\
 pip install pandas\
 pip install seaborn\
-pip install -U scikit-learn\
+pip install -U scikit-learn
+## Tests
+![1](https://user-images.githubusercontent.com/100093143/178971338-676a1687-3b87-478b-8341-26e8a8acd70c.PNG)
 
