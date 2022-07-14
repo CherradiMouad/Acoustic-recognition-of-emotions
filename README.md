@@ -11,7 +11,8 @@ jupyter notebook
 ## Installation
 inside jupyter notebook run the following commands:\
 pip install librosa\
-pip install numpy
-pip install pandas
-pip install seaborn
-pip install -U scikit-learn
+pip install numpy\
+pip install pandas\
+pip install seaborn\
+pip install -U scikit-learn\
+
